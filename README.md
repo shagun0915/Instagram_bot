@@ -1,2 +1,2 @@
-# Instagram_bot
+# Instagram bot
 ![Screenshot](cover.jpg)
